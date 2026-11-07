@@ -1,3 +1,2 @@
 "Version Controlling Lab" 
 "Practising Git Commits"
-"Html code is added to make thing good looking"
