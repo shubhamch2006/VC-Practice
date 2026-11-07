@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Content From Main" 
+=======
+"Content From Feature A" 
+>>>>>>> feature-a
